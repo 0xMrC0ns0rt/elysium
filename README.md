@@ -1,6 +1,7 @@
 # Elysium
 Elsyium is Credit-Debit card checking tool in-one-file that you can use in your project just give the card number to the function then it will return the required info!
 # How to use?
+Note: You will need to include or require elysium.php first
 I will explain the funcation in the next lines:
 1. getcardbrand($cardnumber): This function returns the card brand, for example: Traditional
 2. getcardbank($cardnumber): This function returns the issuer bank of the card
